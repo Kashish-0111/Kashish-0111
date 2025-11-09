@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building projects using the MERN stack and improving my problem-solving skills in Java.<br><br>Data Structures & Algorithms in Java and exploring advanced concepts in React and Firebase.<br>Java, React.js, Node.js, Express, MongoDB, Firebase, or web development in general.<br><br>I love turning ideas into functional projects and learning something new every day.<br>Java<br>✅ JavaScript<br>✅ React.js<br>✅ Node.js<br>✅ Express.js<br>✅ MongoDB<br>✅ HTML<br>✅ CSS<br>✅ Git/GitHub<br>✅ Firebase<br>✅ Vite / Tailwind CSS<br>email id :- kashishdhankar57@gamil.com<br>Linkedin id:-https://www.linkedin.com/in/kashish-dhankar-6a6a83336/
+Building projects using the MERN stack and improving my problem-solving skills in Java.I love turning ideas into functional projects and learning something new every day.email id :- kashishdhankar57@gamil.com<br>Linkedin id:-https://www.linkedin.com/in/kashish-dhankar-6a6a83336/
 
 
 ## 🌐 Socials:
